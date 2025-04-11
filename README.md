@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+I am a researcher and academic teacher in the Institute of Computer Science at the University of Rzeszów.
+I am computer scientist and software engineer.
+My research interests include machine learning, knowledge discovery, data mining, fuzzy set theory, 
+and ensemble learning, especially with the usage of aggregation functions and 
+classification algorithm designed to cope with missing data.
+
+## Links
+[Google Scholar](https://scholar.google.com/citations?user=dJLqDvMAAAAJ)
+
 
 <!--
 **MarcinMrukowicz/MarcinMrukowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
